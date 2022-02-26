@@ -1,0 +1,89 @@
+,#,Pokémon,Pokémon,Types,Egg Groups,Egg Groups,Level,Level,Level,Level,Level,Level,Level,Level
+,#,Pokémon,Pokémon.1,Types,Egg Groups,Egg Groups.1,I,II,III,IV,V,VI,VII,VIII
+0,035,,Clefairy,,Fairy,Fairy,1,1,1,1,1,1,1,1
+1,036,,Clefable,,Fairy,Fairy,,,,,,,1PE,1
+2,039,,Jigglypuff,,Fairy,Fairy,9,9,9,9,9,7XY5ORAS,5SMUSUM4PE,1
+3,040,,Wigglytuff,,Fairy,Fairy,,,,,,,1PE,1
+4,060,,Poliwag,,Water 1,Water 1,,,,,,,4PE,6
+5,061,,Poliwhirl,,Water 1,Water 1,,,,,,,"1, 4PE",1
+6,062,,Poliwrath,,Water 1,Water 1,,,,,,,1PE,1
+7,088,,Grimer,,Amorphous,Amorphous,1,1,1,1,1,1,1,1BDSP
+8,088,,GrimerAlolan Form,,Amorphous,Amorphous,,,,,,,1,
+9,089,,Muk,,Amorphous,Amorphous,1,1,1,1,1,1,1,1BDSP
+10,089,,MukAlolan Form,,Amorphous,Amorphous,,,,,,,1,
+11,096,,Drowzee,,Human-Like,Human-Like,1,1,1,1,1,1,1,1BDSP
+12,097,,Hypno,,Human-Like,Human-Like,1,1,1,1,1,1,1,1BDSP
+13,113,,Chansey,,Fairy,Fairy,1,1,1,1,1,1,1,1
+14,115,,Kangaskhan,,Monster,Monster,,,,,,,,1
+15,122,,Mr. Mime,,Human-Like,Human-Like,,,,,,,1USUMPE,1
+16,122,,Mr. MimeGalarian Form,,Human-Like,Human-Like,,,,,,,,1SwSh
+17,124,,Jynx,,Human-Like,Human-Like,1,1,1,1,1,1,1,1
+18,151,,Mew,,Undiscovered,Undiscovered,1,1,1,1,1,1,1,1
+19,173,,Cleffa,,Undiscovered,Undiscovered,,1,1,1,1,1,1,1
+20,174,,Igglybuff,,Undiscovered,Undiscovered,,9,9,9,9,9XY5ORAS,5,1
+21,175,,Togepi,,Undiscovered,Undiscovered,,,,,,,,1
+22,176,,Togetic,,Flying,Fairy,,,,,,,,1
+23,186,,Politoed,,Water 1,Water 1,,,,,,,,1
+24,192,,Sunflora,,Grass,Grass,,1,1,1,1,1,1,1BDSP
+25,238,,Smoochum,,Undiscovered,Undiscovered,,1,1,1,1,1,1,1
+26,242,,Blissey,,Fairy,Fairy,,1,1,1,1,1,1,1
+27,252,,Treecko,,Monster,Dragon,,,1,1,1,1,1,1
+28,253,,Grovyle,,Monster,Dragon,,,1,1,1,1,1,1
+29,254,,Sceptile,,Monster,Dragon,,,1,1,1,1,1,1
+30,274,,Nuzleaf,,Field,Grass,,,1,1,1,1,1,
+31,275,,Shiftry,,Field,Grass,,,1,,,,,
+32,293,,Whismur,,Monster,Field,,,1,1,1,1,1,1
+33,294,,Loudred,,Monster,Field,,,1,1,1,1,1,1
+34,295,,Exploud,,Monster,Field,,,1,1,1,1,1,1
+35,307,,Meditite,,Human-Like,Human-Like,,,,,,,,1BDSP
+36,308,,Medicham,,Human-Like,Human-Like,,,,,,,,1BDSP
+37,316,,Gulpin,,Amorphous,Amorphous,,,1,1,1,1,1,1BDSP
+38,317,,Swalot,,Amorphous,Amorphous,,,1,1,1,1,1,1BDSP
+39,393,,Piplup,,Water 1,Field,,,,1,1,1,1,1BDSP
+40,394,,Prinplup,,Water 1,Field,,,,,,,,1BDSP
+41,395,,Empoleon,,Water 1,Field,,,,,,,,1BDSP
+42,401,,Kricketot,,Bug,Bug,,,,,,,,1BDSP
+43,402,,Kricketune,,Bug,Bug,,,,,,,,1BDSP
+44,427,,Buneary,,Field,Human-Like,,,,1,1,1,1,1
+45,428,,Lopunny,,Field,Human-Like,,,,1,1,1,1,1
+46,439,,Mime Jr.,,Undiscovered,Undiscovered,,,,,,,1USUM,1
+47,440,,Happiny,,Undiscovered,Undiscovered,,,,1,1,1,1,1
+48,456,,Finneon,,Water 2,Water 2,,,,1,1,1,1,1BDSP
+49,457,,Lumineon,,Water 2,Water 2,,,,1,1,1,1,1BDSP
+50,468,,Togekiss,,Flying,Fairy,,,,,,,,1
+51,486,,Regigigas,,Undiscovered,Undiscovered,,,,,,,,1
+52,531,,Audino,,Fairy,Fairy,,,,,1,1,1,1SwSh
+53,532,,Timburr,,Human-Like,Human-Like,,,,,1,1,1,1SwSh
+54,533,,Gurdurr,,Human-Like,Human-Like,,,,,1,1,1,1SwSh
+55,534,,Conkeldurr,,Human-Like,Human-Like,,,,,1,1,1,1SwSh
+56,568,,Trubbish,,Mineral,Mineral,,,,,1,1,1,1SwSh
+57,569,,Garbodor,,Mineral,Mineral,,,,,1,1,1,1SwSh
+58,572,,Minccino,,Field,Field,,,,,1,1,1,1SwSh
+59,573,,Cinccino,,Field,Field,,,,,,,,1SwSh
+60,574,,Gothita,,Human-Like,Human-Like,,,,,1,1,1,1SwSh
+61,575,,Gothorita,,Human-Like,Human-Like,,,,,1,1,1,1SwSh
+62,576,,Gothitelle,,Human-Like,Human-Like,,,,,1,1,1,1SwSh
+63,594,,Alomomola,,Water 1,Water 2,,,,,1,1,1,
+64,619,,Mienfoo,,Field,Human-Like,,,,,1,1,1,1SwSh
+65,620,,Mienshao,,Field,Human-Like,,,,,1,1,1,1SwSh
+66,622,,Golett,,Mineral,Mineral,,,,,1,1,1,8SwSh
+67,623,,Golurk,,Mineral,Mineral,,,,,1,1,1,1SwSh
+68,656,,Froakie,,Water 1,Water 1,,,,,,1,1,
+69,657,,Frogadier,,Water 1,Water 1,,,,,,1,1,
+70,658,,Greninja,,Water 1,Water 1,,,,,,1,1,
+71,694,,Helioptile,,Monster,Dragon,,,,,,1,1,4SwSh
+72,695,,Heliolisk,,Monster,Dragon,,,,,,,,1SwSh
+73,728,,Popplio,,Water 1,Field,,,,,,,1,1SwSh
+74,729,,Brionne,,Water 1,Field,,,,,,,1,1SwSh
+75,730,,Primarina,,Water 1,Field,,,,,,,1,1SwSh
+76,741,,Oricorio,,Flying,Flying,,,,,,,1,
+77,758,,Salazzle,,Monster,Dragon,,,,,,,1,1SwSh
+78,793,,Nihilego,,Undiscovered,Undiscovered,,,,,,,1,1SwSh
+79,816,,Sobble,,Water 1,Field,,,,,,,,1SwSh
+80,817,,Drizzile,,Water 1,Field,,,,,,,,1SwSh
+81,818,,Inteleon,,Water 1,Field,,,,,,,,1SwSh
+82,866,,Mr. Rime,,Human-Like,Human-Like,,,,,,,,1SwSh
+83,898,,Calyrex,,Undiscovered,Undiscovered,,,,,,,,1SwSh
+84,898,,CalyrexIce Rider,,Undiscovered,Undiscovered,,,,,,,,1SwSh
+85,898,,CalyrexShadow Rider,,Undiscovered,Undiscovered,,,,,,,,1SwSh
+86,Bold indicates a Pokémon gains STAB from this move.Italics indicates a Pokémon whose evolution or alternate form receives STAB from this move.,Bold indicates a Pokémon gains STAB from this move.Italics indicates a Pokémon whose evolution or alternate form receives STAB from this move.,Bold indicates a Pokémon gains STAB from this move.Italics indicates a Pokémon whose evolution or alternate form receives STAB from this move.,Bold indicates a Pokémon gains STAB from this move.Italics indicates a Pokémon whose evolution or alternate form receives STAB from this move.,Bold indicates a Pokémon gains STAB from this move.Italics indicates a Pokémon whose evolution or alternate form receives STAB from this move.,Bold indicates a Pokémon gains STAB from this move.Italics indicates a Pokémon whose evolution or alternate form receives STAB from this move.,Bold indicates a Pokémon gains STAB from this move.Italics indicates a Pokémon whose evolution or alternate form receives STAB from this move.,Bold indicates a Pokémon gains STAB from this move.Italics indicates a Pokémon whose evolution or alternate form receives STAB from this move.,Bold indicates a Pokémon gains STAB from this move.Italics indicates a Pokémon whose evolution or alternate form receives STAB from this move.,Bold indicates a Pokémon gains STAB from this move.Italics indicates a Pokémon whose evolution or alternate form receives STAB from this move.,Bold indicates a Pokémon gains STAB from this move.Italics indicates a Pokémon whose evolution or alternate form receives STAB from this move.,Bold indicates a Pokémon gains STAB from this move.Italics indicates a Pokémon whose evolution or alternate form receives STAB from this move.,Bold indicates a Pokémon gains STAB from this move.Italics indicates a Pokémon whose evolution or alternate form receives STAB from this move.,Bold indicates a Pokémon gains STAB from this move.Italics indicates a Pokémon whose evolution or alternate form receives STAB from this move.
